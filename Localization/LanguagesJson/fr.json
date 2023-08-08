@@ -12,7 +12,7 @@
     "Value": "Joue à:"
   },
   "AppNotificationLabel_AutoConnectedToController": {
-    "Value": "Manette automatiquement trouvé!"
+    "Value": "Manette automatiquement trouvée!"
   },
   "AppNotificationLabel_AutoConnectingToController": {
     "Value": "Connexion automatique à la manette"
@@ -33,7 +33,7 @@
     "Value": "Impossible de se reconnecter, veuillez vérifier la connexion !"
   },
   "AppNotificationLabel_ReconnectedToController": {
-    "Value": "Manette reconnecté"
+    "Value": "Manette reconnectée"
   },
   "AppNotificationLabel_SearchingForController": {
     "Value": "Recherche de manette..."
@@ -48,10 +48,10 @@
     "Value": "Téléchargement de la mise à jour…"
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsDualShock4": {
-    "Value": "La manette DualSense n'est plus detecté comme une manette Dualshock 4 !"
+    "Value": "La manette DualSense n'est plus detectée comme une manette Dualshock 4 !"
   },
   "AppNotificationPopUp_DualsenseWillNotReadAsXbox": {
-    "Value": "La manette DualSense ne sera plus detecté comme une manette Xbox !"
+    "Value": "La manette DualSense ne sera plus detectée comme une manette Xbox !"
   },
   "AppNotificationPopUp_Exit": {
     "Value": "Sortir"
